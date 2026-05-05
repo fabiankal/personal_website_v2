@@ -7,9 +7,8 @@ website:
   site-url: https://fabiankal.github.io/personal_website_v2
   favicon: assets/favicon.ico
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
+    title: "Fabian Kalleitner"
+    right:
       - href: about.qmd
         text: About
       - href: publications.qmd
@@ -19,7 +18,7 @@ website:
       - href: teaching.qmd
         text: Teaching
       - text: CV
-        href: https://ucloud.univie.ac.at/index.php/s/RLOvdyscwTEiKkM/download
+        href: https://syncandshare.lrz.de/getlink/fi8HMRufYxqLvPfidtaNit/CV_Fabian_Kalleitner_eng.pdf
     tools:
       - icon: github
         href: https://github.com/fabiankal

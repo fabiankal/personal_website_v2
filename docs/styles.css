@@ -45,3 +45,24 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+/* Add vertical separator after CV link */
+.navbar-nav .nav-item:has(a[href*="RLOvdyscwTEiKkM"]) {
+  border-right: 1px solid rgba(0, 0, 0, 0.2);
+  padding-right: 15px;
+  margin-right: 10px;
+}
+
+/* Adjust separator color for dark mode */
+[data-bs-theme="dark"] .navbar-nav .nav-item:has(a[href*="RLOvdyscwTEiKkM"]) {
+  border-right-color: rgba(255, 255, 255, 0.2);
+}
+
+/* Ensure navbar tools are visible */
+.navbar-nav.navbar-nav-scroll {
+  overflow: visible !important;
+}
+
+.navbar .navbar-nav .nav-item.compact {
+  display: inline-flex !important;
+}
