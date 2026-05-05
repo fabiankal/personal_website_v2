@@ -1,0 +1,32 @@
+---
+title: "Fabian Kalleitner"
+about:
+  template: trestles
+  image: assets/profile.jpg
+  image-shape: round
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:fabian.kalleitner@lmu.de
+    - icon: github
+      text: GitHub
+      href: https://github.com/fabiankal
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.at/citations?user=NoQflXIAAAAJ
+    - icon: chat-square-text-fill
+      text: Bluesky
+      href: https://bsky.app/profile/kalf.bsky.social
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-1196-824X
+    - text: "{{< ai researchgate >}} ResearchGate"
+      href: https://www.researchgate.net/profile/Fabian-Kalleitner
+---
+
+## Fabian Kalleitner
+
+Postdoctoral Researcher at [LMU Munich](https://www.en.ls4.soziologie.uni-muenchen.de/staff/academic_staff/fabian_kalleitner/index.html)
+
+My research interests include tax preferences, biased perceptions, fairness attitudes, and work values. To gather insights in these topics I combine theories and insights of sociology, economics, and psychology using various methodological approaches (i.e. panel surveys, multilevel analyses, survey/field/laboratory experiments) and estimation strategies.
+
+[Learn more about me →](about.qmd)

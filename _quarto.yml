@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Fabian Kalleitner"
+  site-url: https://fabiankal.github.io/personal_website_v2
+  favicon: assets/favicon.ico
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: publications.qmd
+        text: Publications
+      - href: projects.qmd
+        text: Projects
+      - href: teaching.qmd
+        text: Teaching
+      - text: CV
+        href: https://ucloud.univie.ac.at/index.php/s/RLOvdyscwTEiKkM/download
+    tools:
+      - icon: github
+        href: https://github.com/fabiankal
+      - icon: envelope
+        href: mailto:fabian.kalleitner@lmu.de
+  page-footer:
+    center: "© 2025 Fabian Kalleitner · Made with [Quarto](https://quarto.org)"
+  comments: false
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: false
+    link-external-icon: false
+    link-external-newwindow: true

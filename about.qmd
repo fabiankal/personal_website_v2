@@ -1,0 +1,31 @@
+---
+title: "About"
+---
+
+## Biography
+
+I am a Postdoctoral Researcher at the [Chair of Sociology and Empirical Social Research (LS4)](https://www.en.ls4.soziologie.uni-muenchen.de/staff/academic_staff/fabian_kalleitner/index.html), LMU Munich. My research interests include tax preferences, biased perceptions, fairness attitudes, and work values. To gather insights in these topics I combine theories and insights of sociology, economics, and psychology using various methodological approaches (i.e. panel surveys, multilevel analyses, survey/field/laboratory experiments) and estimation strategies.
+
+Download my [CV](https://ucloud.univie.ac.at/index.php/s/RLOvdyscwTEiKkM/download).
+
+## Interests
+
+- Economic & social inequality
+- Quantitative methods
+- Survey research methodology
+- Tax and redistribution preferences
+- Work values
+
+## Education
+
+**PhD in Sociology** (2023)
+University of Vienna
+
+**MA in Sociology** (2017)
+University of Vienna
+
+**BA in History** (2015)
+University of Vienna
+
+**BA in Political Science** (2014)
+University of Vienna
