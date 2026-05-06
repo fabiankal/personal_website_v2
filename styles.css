@@ -8,9 +8,24 @@ body {
   letter-spacing: -0.01em;
 }
 
+/* ── Navbar styling ── */
+.navbar {
+  font-family: "Source Sans 3", "Helvetica Neue", sans-serif;
+  font-size: 1.05rem;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+}
+
+.navbar-brand {
+  font-size: 1.15rem;
+  font-weight: 600;
+}
+
 /* ── About / Home page ── */
 .quarto-about-trestles .about-entity {
-  border-right: 1px solid var(--bs-border-color);
+  border-right: none !important;
+  border-left: none !important;
+  border: none !important;
   padding-right: 2rem;
 }
 
@@ -65,4 +80,37 @@ a:hover {
 
 .navbar .navbar-nav .nav-item.compact {
   display: inline-flex !important;
+}
+
+/* Remove border/separator after Hi! heading on about page */
+.about-page h2.no-border {
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
+}
+
+/* Hide hr only after headings with .no-border */
+.no-border + hr {
+  display: none;
+}
+
+/* Remove bottom border on specific headings */
+h2.no-border {
+  border-bottom: none;
+}
+
+/* Half-width centered horizontal rules */
+hr {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Remove vertical divider in trestles about layout */
+.quarto-about-trestles .about-contents {
+  border-left: none !important;
+}
+
+
+h2 {
+  border-bottom: none;
 }
