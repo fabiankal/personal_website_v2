@@ -5,7 +5,7 @@ project:
 website:
   title: "Fabian Kalleitner"
   site-url: https://fabiankal.github.io/personal_website_v2
-  favicon: assets/favicon.ico
+  favicon: assets/icon.png
   navbar:
     title: "Fabian Kalleitner"
     right:
@@ -17,6 +17,8 @@ website:
         text: Projects
       - href: teaching.qmd
         text: Teaching
+      - href: tools.qmd
+        text: Practical Tools
       - text: CV
         href: https://syncandshare.lrz.de/dl/fi8HMRufYxqLvPfidtaNit/CV_Fabian_Kalleitner_eng.pdf?inline&skipCounter=true
     tools:
@@ -25,7 +27,7 @@ website:
       - icon: envelope
         href: mailto:fabian.kalleitner@lmu.de
   page-footer:
-    center: "© 2025 Fabian Kalleitner · Made with [Quarto](https://quarto.org)"
+    center: "© 2026 Fabian Kalleitner · Made with [Quarto](https://quarto.org)"
   comments: false
 
 format:

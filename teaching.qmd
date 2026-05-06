@@ -2,60 +2,48 @@
 title: "Teaching"
 ---
 
-## 2026
+### 2026
 - **Summer Semester**  
-  - *Sociology of Labor Markets*, BA-level, LMU Munich  
+  - *Sociology of Labor Markets*, BA-level, LMU Munich [[Syllabus]](assets/syllabi/2026_SoSe_Labor_Markets.pdf)
 
----
-
-## 2025
+### 2025
 - **Winter Semester**  
-  - *Research Designs*, MA-level, LMU Munich  
-  - *Justice Theories in Modern Empirical Social Science*, BA-level, LMU Munich  
+  - *Research Designs*, MA-level, LMU Munich  [[Syllabus]](assets/syllabi/2025_WiSe_Research_Designs.pdf)
+  - *Justice Theories in Modern Empirical Social Science*, BA-level, LMU Munich [[Syllabus]](assets/syllabi/2025_WiSe_Justice_Theories.pdf)
   - *MA and BA Project Seminar*, BA/MA-level, LMU Munich  
 
 - **Summer Semester**  
   - *MA and BA Project Seminar*, BA/MA-level, LMU Munich  
   - *Sociology of Labor Markets*, BA-level, LMU Munich  
 
----
-
-## 2024
+### 2024
 - **Winter Semester**  
   - *Justice Theories in Modern Empirical Social Science*, BA-level, LMU Munich  
   - *Research Designs* (with Katrin Auspurg), MA-level, LMU Munich  
 
 - **Summer Semester**  
-  - *Inequalities and Social Stratification in Labor Markets*, MA-level, Freie Universität Berlin  
+  - *Inequalities and Social Stratification in Labor Markets*, MA-level, Freie Universität Berlin [[Syllabus]](assets/syllabi/2024_SoSe_Labor_market_inequalities.pdf) 
 
----
-
-## 2023
+### 2023
 - **Winter Semester**  
-  - *Working with the German Socio-Economic Panel – Analyzing Research Questions with Panel Data*, MA-level, Freie Universität Berlin  
+  - *Working with the German Socio-Economic Panel – Analyzing Research Questions with Panel Data*, MA-level, Freie Universität Berlin [[Syllabus]](assets/syllabi/2023_WiSe_Working_with_the_SOEP.pdf)   
 
 - **Summer Semester**  
   - *Inequalities and Social Stratification in Labor Markets*, MA-level, Freie Universität Berlin  
-  - *From Research Question to Research Design: Investigating Preferences for and Beliefs about Redistribution and Inequality*, MA-level, Freie Universität Berlin  
+  - *From Research Question to Research Design: Investigating Preferences for and Beliefs about Redistribution and Inequality*, MA-level, Freie Universität Berlin [[Syllabus]](assets/syllabi/2023_SoSe_From research_question_to_research_design.pdf) 
 
----
-
-## 2022
+### 2022
 - **Summer Semester**  
   - *Sociology of Labor Markets*, MA-level, University of Vienna  
 
----
-
-## 2021
+### 2021
 - **Winter Semester**  
   - *Introduction to Economic Sociology*, MA-level, University of Vienna (hybrid)  
 
 - **Summer Semester**  
   - *Introduction to Economic Sociology*, MA-level, University of Vienna (online)  
 
----
-
-## 2020
+### 2020
 - **Winter Semester**  
   - *Social Research*, BA-level, University of Vienna (online)  
 
@@ -64,9 +52,14 @@ title: "Teaching"
   - *Inequality in the Long Run: The Role of Taxation in the Development of Modern Statehood and its Impact on the Distribution of Wealth and Income*  
     (with Peter Aigner & Michael Adelsberger), MA-level, University of Vienna  
 
----
+### 2019
+- **Winter Semester**  
+  - *Sociology of Labor Markets*, MA-level, University of Vienna  
 
-## 2019
+- **Summer Semester**  
+  - *Sociology of Labor Markets*, MA-level, University of Vienna  
+
+### 2018
 - **Winter Semester**  
   - *Sociology of Labor Markets*, MA-level, University of Vienna  
 
@@ -75,15 +68,6 @@ title: "Teaching"
 
 ---
 
-## 2018
-- **Winter Semester**  
-  - *Sociology of Labor Markets*, MA-level, University of Vienna  
-
-- **Summer Semester**  
-  - *Sociology of Labor Markets*, MA-level, University of Vienna  
-
----
-
-## Supervision
+### Supervision
 
 I am supervising or have supervised students at the BA and MA level. Feel free to reach out if you are interested in working with me.

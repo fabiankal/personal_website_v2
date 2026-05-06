@@ -1,0 +1,25 @@
+---
+title: "Work and Corona (WoCo)"
+---
+
+[← Back to Projects](../../projects.qmd)
+
+**Tags:** COVID-19 · Work · Completed (2021–2023)
+
+[[Code]](https://github.com/fabiankal/woco) · [[Video]](https://www.youtube.com/watch?v=jz8Uj9D7vcc) · [[Project Website]](https://woco.univie.ac.at/) · [[Dashboard]](https://woco.univie.ac.at/dashboard/)
+
+![The Work and Corona Dashboard](featured.jpg)
+
+---
+
+## Project Description
+
+This project explores the transformation of work during the COVID-19 pandemic. In collaboration with the Austrian Corona Panel Project, it developed survey waves focusing on changes in work, as well as work-related attitudes and preferences. The project's central goal was to create a publicly accessible website that enables users to explore shifts in attitudes, behaviors, and preferences through an interactive dashboard. It was funded by the [Digifonds](https://wien.arbeiterkammer.at/service/digifonds/gefoerderte-projekte/WoCo.html) (AK Vienna) and ran from August 2021 to July 2023.
+
+The *Work and Corona* project showcases how academically designed, quantitative social research can be made accessible to the wider public, linking the open science movement with science communication. To this end, we developed a data visualization dashboard available at [woco.univie.ac.at/dashboard/](https://woco.univie.ac.at/dashboard/), which presents aggregated survey data from the Austrian Corona Panel Project. The complete dashboard code has been published openly, is freely accessible, and is accompanied by detailed [documentation](https://doi.org/10.31219/osf.io/3mcna).
+
+A second pillar of the project focused on analyzing these data to generate insights into the transformation of work and shifts in work-related preferences and beliefs during the pandemic. This resulted in a series of [blog posts](https://woco.univie.ac.at/blog/) for the general public as well as two academic publications.
+
+## Publications
+
+Fabian Kalleitner, Lukas Schlogl, Licia Bobzien (2025). How much for whom? Explaining preferences for welfare benefits to short-time workers and the unemployed. *Journal of European Social Policy*. [[DOI]](https://doi.org/10.1177/09589287241283707)

@@ -1,0 +1,17 @@
+---
+title: "Practical Tools"
+---
+
+## Teaching Materials
+
+- **SOEP with R Cheat Slides**  
+  Some slides I prepared to ease the use of SOEP with R. [[Slides]](slides/SOEPinR.html#1)
+
+## Code
+
+- **R Shiny Code for a Panel Survey Dashboard**  
+  Full replication code for a [scientific dashboard](https://woco.univie.ac.at/dashboard/) ready to be applied to most panel surveys with a few little tweaks. [[GitHub]](https://github.com/fabiankal/woco)
+
+- **Data Visualization with Isotypes using Quarto \&  Vega-Lite**  
+  Example plot on the inequality in [CO2 Footprints](https://data-science.wifo.ac.at/emissionen-ungleichheit), compiled in cooperation with Lukas Schmoigl.
+  Full replication code on [[GitHub]](https://github.com/fabiankal/woco).

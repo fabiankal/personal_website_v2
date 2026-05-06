@@ -16,6 +16,7 @@ LMU Munich
 </center>
 
 ## Hi!  {.no-border}
+
 I am a Postdoctoral Researcher at the [Chair of Sociology and Empirical Social Research (LS4)](https://www.soziologie.lmu.de/en/our-department/faculty-and-staff/contact-page/fabian-kalleitner-e069e205.html), LMU Munich. My research interests include tax preferences, biased perceptions, fairness attitudes, and work values. To gather insights in these topics I combine theories and insights of sociology, economics, and psychology using various methodological approaches (i.e. panel surveys, multilevel analyses, survey/field/laboratory experiments) and estimation strategies.
 
 You can contact me per email using [fabian.kalleitner@lmu.de](mailto:fabian.kalleitner@lmu.de).

@@ -13,5 +13,50 @@
   },
   "teaching.qmd": {
     "teaching.html": "5d1c981a"
+  },
+  "research.qmd": {
+    "research.html": "dbe9e900"
+  },
+  "tools.qmd": {
+    "tools.html": "fbac8e4c"
+  },
+  "projects/acpp.qmd": {
+    "acpp.html": "c413e1b6"
+  },
+  "projects/cupesse.qmd": {
+    "cupesse.html": "80b6db4f"
+  },
+  "projects/dissertation.qmd": {
+    "dissertation.html": "b4801d88"
+  },
+  "projects/jusaw.qmd": {
+    "jusaw.html": "b88307e6"
+  },
+  "projects/pije.qmd": {
+    "pije.html": "d541b86e"
+  },
+  "projects/projects.qmd": {
+    "projects.html": "d8e336b1"
+  },
+  "projects/woco.qmd": {
+    "woco.html": "3003dafa"
+  },
+  "projects/acpp/acpp.qmd": {
+    "acpp.html": "6758c192"
+  },
+  "projects/cupesse/cupesse.qmd": {
+    "cupesse.html": "c14e426e"
+  },
+  "projects/dissertation/dissertation.qmd": {
+    "dissertation.html": "e1d3888c"
+  },
+  "projects/jusaw/jusaw.qmd": {
+    "jusaw.html": "f75bdc1c"
+  },
+  "projects/pije/pije.qmd": {
+    "pije.html": "46e91f4f"
+  },
+  "projects/woco/woco.qmd": {
+    "woco.html": "6e8187af"
   }
 }

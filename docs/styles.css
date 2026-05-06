@@ -8,6 +8,17 @@ body {
   letter-spacing: -0.01em;
 }
 
+/* ── Link colors ── */
+a {
+  color: #2596be;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #43b2da;
+  text-decoration: underline;
+}
+
 /* ── Navbar styling ── */
 .navbar {
   font-family: "Source Sans 3", "Helvetica Neue", sans-serif;

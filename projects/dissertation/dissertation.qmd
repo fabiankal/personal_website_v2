@@ -1,0 +1,17 @@
+---
+title: "Explaining Preferences for Redistributive Taxation (Dissertation)"
+---
+
+[← Back to Projects](../../projects.qmd)
+
+**Tags:** Tax preferences · Redistribution · Completed
+
+---
+
+## Project Description
+
+When do people want more redistributive taxes? Although several countries in Europe have experienced rising levels of inequality in the last couple of decades, public demands for redistributive taxes remained on similar levels or even decreased. In this dissertation, I argue that we can understand this phenomenon by acknowledging the role of limited public information about inequality and tax rates and the importance of fairness heuristics in enabling individuals to demand redistribution by taxes. Utilizing data from the European Social Survey and experimental web surveys conducted in Austria, this dissertation tests these theoretical arguments empirically.
+
+## Publications
+
+Fabian Kalleitner, Licia Bobzien (2024). Taxed Fairly? How Differences in Perception Shape Attitudes towards Progressive Taxation. *European Sociological Review*. [[DOI]](https://doi.org/10.1093/esr/jcad060)

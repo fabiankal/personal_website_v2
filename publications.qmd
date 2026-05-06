@@ -2,91 +2,52 @@
 title: "Publications"
 ---
 
-## Journal Articles
+## Work in Progress
 
-**2025**
+- Fabian Kalleitner, Jule Adriaans, Ole Brüggemann, Cristóbal Moya and Sandra Bohmann. Agreeing in Principle, Disagreeing on Policy: How Beliefs About the Gender Pay Gap Shape Fairness Concerns and Policy Preferences.
 
-Licia Bobzien, Roland Verwiebe, Fabian Kalleitner (2025). Visualizing Age-Specific Digital Platform Usage in Germany. *Socius*.
-[[DOI]](https://doi.org/10.1177/23780231251319360)
+- Fabian Kalleitner, Laila Schmitt, Monika Mühlböck, and Bernhard Kittel. Individuals' perceived impact of COVID-19 on inequality and its consequences for redistributive tax preferences.
 
-Fabian Kalleitner, Lukas Schlogl, Licia Bobzien (2025). How much for whom? Explaining preferences for welfare benefits to short-time workers and the unemployed. *Journal of European Social Policy*.
-[[DOI]](https://doi.org/10.1177/09589287241283707)
+- Fabian Kalleitner, Cristóbal Moya, and Stefan Liebig. From Mixed Findings to Precise Estimates: The Effect of Retirement on Life Satisfaction.
 
----
+- Filippo Andrei, Fabian Kalleitner, and Bernhard Kittel. The Politics of Fiscal Adjustment: Public Support for Tax and Welfare Reform in Times of Fiscal Stress.
 
-**2024**
+- Fabian Kalleitner. Perceived Tax Burdens and Just Tax Progressivity.
 
-Fabian Kalleitner, Licia Bobzien (2024). Taxed Fairly? How Differences in Perception Shape Attitudes towards Progressive Taxation. *European Sociological Review*.
-[[DOI]](https://doi.org/10.1093/esr/jcad060)
+- Fabian Kalleitner, Nikita Kvir, and Dimitri Prandner. The Decline of the Austrian Middle Class and the Rise of Far-Right Populism. 
 
----
+- Armando Holzknecht, Rene Schwaiger, ..., Fabian Kalleitner, ..., et al. Collective Evidence on Behavioral Interventions Targeting Carbon Pricing Support: A Many-Designs Approach with 55 Studies. 
 
-**2023**
+## Working Papers
 
-Sandra Bohmann, Fabian Kalleitner (2023). Subjective Inequity Aversion: Unfair Inequality, Subjective Well-Being, and Preferences for Redistribution. *SocArXiv*.
-[[DOI]](https://doi.org/10.31235/osf.io/g8arw)
+- Sandra Bohmann and Fabian Kalleitner. Subjective Inequity Aversion: Unfair Inequality, Subjective Well-Being, and Preferences for Redistribution. [[Working Paper]](https://doi.org/10.31235/osf.io/g8arw).
 
-Fabian Kalleitner, Sandra Bohmann (2023). The Inequity Z: Income Fairness Perceptions in Europe across the Income Distribution. *Socius: Sociological Research for a Dynamic World*.
-[[DOI]](https://doi.org/10.1177/23780231231167138)
+- Licia Bobzien, Fabian Kalleitner, and Lukas Schlogl. Technology, Migrants or Offshoring: How the Perceived Source of Labour-Market Risks Shapes Policy Demands. [[Working Paper]](https://syncandshare.lrz.de/getlink/fiSDjedgHfKiCtzika2QWf/lmrisks_full_manuscript.pdf).
 
----
+## Refereed Journal Publications
 
-**2022**
+- Fabian Kalleitner and Licia Bobzien. How Much Is My Home Worth? Subjective Housing Wealth and Life Satisfaction in Germany. Part of the Special Issue "Perceptions of Wealth Inequality" in **Historical Social Research**. Forthcoming. [[Accepted manuscript]](https://syncandshare.lrz.de/getlink/fiJZ3rEvVrf5k8XRzQoajh/subjwealth_accepted_manuscript.pdf)
 
-Fabian Kalleitner, David W Schiestl, Georg Heiler (2022). Varieties of Mobility Measures: Comparing Survey and Mobile Phone Data during the COVID-19 Pandemic. *Public Opinion Quarterly*.
-[[DOI]](https://doi.org/10.1093/poq/nfac042)
+- Licia Bobzien, Roland Verwiebe, and Fabian Kalleitner. 2025. [Visualizing Age-Specific Digital Platform Usage in Germany](https://journals.sagepub.com/doi/10.1177/23780231251319360). **Socius: Sociological Research for a Dynamic World**, 11.
 
-Fabian Kalleitner, Monika Mühlböck, Bernhard Kittel (2022). What's the Benefit of a Video? The Effect of Nonmaterial Incentives on Response Rate and Bias in Web Surveys. *Social Science Computer Review*.
-[[DOI]](https://doi.org/10.1177/0894439320918318)
+- Fabian Kalleitner, Lukas Schlogl, and Licia Bobzien. 2025. [How much for whom? Explaining preferences for welfare benefits to short-time workers and the unemployed](https://journals.sagepub.com/doi/10.1177/09589287241283707). **Journal of European Social Policy**, 35(1), 83–97.
 
-Monika Mühlböck, Fabian Kalleitner, Nadia Steiber, Bernhard Kittel (2022). Scarring Dreams? Young People's Vocational Aspirations and Expectations During and After Unemployment. *Social Inclusion*.
-[[DOI]](https://doi.org/10.17645/si.v10i2.5162)
+- Fabian Kalleitner, and Licia Bobzien. 2024. [Taxed Fairly? How Differences in Perception Shape Attitudes towards Progressive Taxation](https://doi.org/10.1093/esr/jcad060). **European Sociological Review**, 40(3), 535–548.
 
----
+- Fabian Kalleitner, and Sandra Bohmann. 2023. [The Inequity Z: Income Fairness Perceptions in Europe across the Income Distribution](https://doi.org/10.1177/23780231231167138). **Socius: Sociological Research for a Dynamic World**, 9.
 
-**2021**
+- Fabian Kalleitner, David W. Schiestl, and Georg Heiler. 2022. [Varieties of Mobility Measures: Comparing Survey and Mobile Phone Data during the COVID-19 Pandemic](https://doi.org/10.1093/poq/nfac042). **Public Opinion Quarterly**, 86(4), 913–931.
 
-Bernhard Kittel, Fabian Kalleitner, David W. Schiestl (2021). Peers for the Fearless: Social Norms Facilitate Preventive Behaviour When Individuals Perceive Low COVID-19 Health Risks. *PLOS ONE*.
-[[DOI]](https://doi.org/10.1371/journal.pone.0260171)
+- Monika Mühlböck, Fabian Kalleitner, Nadia Steiber, and Bernhard Kittel. 2022. [Scarring Dreams? Young People's Vocational Aspirations and Expectations During and After Unemployment](https://doi.org/10.17645/si.v10i2.5162). **Social Inclusion**, 10(2), 252–264.
 
-Monika Mühlböck, Fabian Kalleitner, Nadia Steiber, Bernhard Kittel (2021). Information, Reflection, and Successful Job Search: A Labor Market Policy Experiment. *Social Policy & Administration*.
-[[DOI]](https://doi.org/10.1111/spol.12754)
+- Monika Mühlböck, Fabian Kalleitner, Nadia Steiber, and Bernhard Kittel. 2022. [Information, Reflection, and Successful Job Search: A Nudging Experiment](http://doi.org/10.1111/spol.12754). **Social Policy & Administration**, 56(1), 48–72.
 
-Bernhard Kittel, Sylvia Kritzinger, Hajo Boomgaarden, Barbara Prainsack, Jakob-Moritz Eberl, Fabian Kalleitner, et al. (2021). The Austrian Corona Panel Project: Monitoring Individual and Societal Dynamics amidst the COVID-19 Crisis. *European Political Science*.
-[[DOI]](https://doi.org/10.1057/s41304-020-00294-7)
+- Fabian Kalleitner, Monika Mühlböck and Bernhard Kittel. 2022. [What's the Benefit of a Video? The Effect of Nonmaterial Incentives on Response Rate and Bias in Web Surveys](https://doi.org/10.1177/0894439320918318). **Social Science Computer Review**, 40(3), 700–716.
 
-Licia Bobzien, Fabian Kalleitner (2021). Attitudes towards European Financial Solidarity during the Covid-19 Pandemic: Evidence from a Net-Contributor Country. *European Societies*.
-[[DOI]](https://doi.org/10.1080/14616696.2020.1836669)
+- Bernhard Kittel, Fabian Kalleitner, and David W. Schiestl. 2021. [Avoiding a public health dilemma: Social norms and trust facilitate preventive behaviour if individuals perceive low COVID-19 health risks](https://doi.org/10.1371/journal.pone.0260171). **PLoS ONE**, 16(12), e0260171.
 
-Nicolas Albacete, Pirmin Fessler, Fabian Kalleitner, Peter Lindner (2021). How Has COVID-19 Affected the Financial Situation of Households in Austria? *Monetary Policy & the Economy*.
-[[PDF]](https://econpapers.repec.org/article/onboenbmp/y_3a2021_3ai_3aq4_2f20-q1_2f21_3ab_3a5.htm)
+- Licia Bobzien and Fabian Kalleitner. 2021. [Attitudes towards European Financial Solidarity during the Covid-19 Pandemic: Evidence from a Net-contributor Country](https://doi.org/10.1080/14616696.2020.1836669). **European Societies**, 23, 791–804.
 
----
+- Bernhard Kittel, Sylvia Kritzinger, Hajo Boomgaarden, Barbara Prainsack, Jakob-Moritz Eberl, Fabian Kalleitner, Noëlle Lebernegg, et al. 2021. [The Austrian Corona Panel Project: Monitoring Individual and Societal Dynamics amidst the COVID-19 Crisis](https://doi.org/10.1057/s41304-020-00294-7). **European Political Science**, 20, 318–344.
 
-**2019**
-
-Bernhard Kittel, Fabian Kalleitner, Panos Tsakloglou (2019). The Transmission of Work Centrality within the Family in a Cross-Regional Perspective. *The ANNALS of the American Academy of Political and Social Science*.
-[[DOI]](https://doi.org/10.1177/0002716219827515)
-
-Fabian Kalleitner, Anna Fassl, Simone Tamara Feichter (2019). Zeugnisse Des Umbruchs Und Der Kontinuität: Staatswissenschaftliche Dissertationen Und Deren Beurteilungen 1938–1948. *Die Soziologie Und Der Nationalsozialismus in Österreich*.
-[[DOI]](https://doi.org/10.1515/9783839447338-010)
-
----
-
-**2018**
-
-Fabian Kalleitner, Bernhard Kittel (2018). Das Einkommensverständnis in Österreich. Wissen und Zustimmung zur progressiven Besteuerung. *Aktuelle Probleme der Finanzsoziologie: die Fragestellungen von Rudolf Goldscheid heute*.
-
----
-
-## Book Chapters
-
-Bernhard Kittel, Fabian Kalleitner (2020). Wirtschaft. In *Forschungs- und Anwendungsfelder der Soziologie*.
-
-## Working Papers & Preprints
-
-Fabian Kalleitner, David W. Schiestl, Georg Heiler (2021). Varieties of Mobility Measures: Comparing Survey and Mobile Phone Data during the COVID-19 Pandemic. *SocArXiv*.
-[[DOI]](https://doi.org/10.31235/osf.io/r78fk)
-
-Bernhard Kittel, Fabian Kalleitner, David W. Schiestl (2021). Avoiding a Public Health Dilemma: Social Norms and Trust Facilitate Preventive Behaviour If Individuals Perceive Low COVID-19 Health Risks. *SocArXiv*.
-[[DOI]](https://doi.org/10.31235/osf.io/q9b23)
+- Bernhard Kittel, Fabian Kalleitner and Panos Tsakoglou. 2019. [The Transmission of Work Centrality Within the Family a European Cross-regional Perspective](https://doi.org/10.1177/0002716219827515). **The ANNALS of the American Academy of Political and Social Science**, 682(1), 106–124.
